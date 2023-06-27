@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://danielcornejodev.github.io/csb-3bqq8s/static/css/main.23df447e.chunk.css",
+    "main.js": "https://danielcornejodev.github.io/csb-3bqq8s/static/js/main.82711b7c.chunk.js",
+    "main.js.map": "https://danielcornejodev.github.io/csb-3bqq8s/static/js/main.82711b7c.chunk.js.map",
+    "runtime-main.js": "https://danielcornejodev.github.io/csb-3bqq8s/static/js/runtime-main.7fa1c7cb.js",
+    "runtime-main.js.map": "https://danielcornejodev.github.io/csb-3bqq8s/static/js/runtime-main.7fa1c7cb.js.map",
+    "static/js/2.f140cfac.chunk.js": "https://danielcornejodev.github.io/csb-3bqq8s/static/js/2.f140cfac.chunk.js",
+    "static/js/2.f140cfac.chunk.js.map": "https://danielcornejodev.github.io/csb-3bqq8s/static/js/2.f140cfac.chunk.js.map",
+    "index.html": "https://danielcornejodev.github.io/csb-3bqq8s/index.html",
+    "static/css/main.23df447e.chunk.css.map": "https://danielcornejodev.github.io/csb-3bqq8s/static/css/main.23df447e.chunk.css.map",
+    "static/js/2.f140cfac.chunk.js.LICENSE.txt": "https://danielcornejodev.github.io/csb-3bqq8s/static/js/2.f140cfac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fa1c7cb.js",
+    "static/js/2.f140cfac.chunk.js",
+    "static/css/main.23df447e.chunk.css",
+    "static/js/main.82711b7c.chunk.js"
+  ]
+}
